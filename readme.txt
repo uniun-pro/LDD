@@ -8,3 +8,4 @@ i change this context for my ubuntu by vim
 
 please tell me if you can read this line,thanks!
 
+readme.txt
